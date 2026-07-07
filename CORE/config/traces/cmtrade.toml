@@ -1,0 +1,10 @@
+kind = "cmtrade"
+contains = ["CMTRADE"]
+
+id_key = "Id"
+action_key = "Action"
+
+timestamp_source = "prefix"
+timestamp_format = "%H:%M:%S:%f"
+
+capture_source_prefix = true
